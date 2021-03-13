@@ -15,3 +15,5 @@ b = int(input())
 print(dodaj(a, b))
 
 print('Koniec programu')
+
+#komentarz
